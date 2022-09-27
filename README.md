@@ -121,12 +121,3 @@ python manage.py runserver
     "following": "Максим горький"
 }
 ```
-
-
-
-
-
-
-
-
-
